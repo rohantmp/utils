@@ -15,7 +15,7 @@ github.com/sirupsen/logrus
 golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 golang.org/x/sys/windows
-# k8s.io/apimachinery v0.25.2
+# k8s.io/apimachinery v0.25.4
 ## explicit; go 1.19
 k8s.io/apimachinery/pkg/version
 # mvdan.cc/sh/v3 v3.5.1
@@ -24,3 +24,4 @@ mvdan.cc/sh/v3/expand
 mvdan.cc/sh/v3/fileutil
 mvdan.cc/sh/v3/pattern
 mvdan.cc/sh/v3/syntax
+# github.com/loft-sh/utils => /home/tpjsm/go/src/github.com/loft-sh/utils

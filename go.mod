@@ -12,5 +12,7 @@ require (
 
 require (
 	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
-	k8s.io/apimachinery v0.25.2
+	k8s.io/apimachinery v0.25.4
 )
+
+replace github.com/loft-sh/utils => /home/tpjsm/go/src/github.com/loft-sh/utils
